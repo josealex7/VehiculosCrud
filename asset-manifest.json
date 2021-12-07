@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VehiculosCrud/static/css/main.8b937eb3.chunk.css",
+    "main.js": "/VehiculosCrud/static/js/main.a5484058.chunk.js",
+    "main.js.map": "/VehiculosCrud/static/js/main.a5484058.chunk.js.map",
+    "runtime-main.js": "/VehiculosCrud/static/js/runtime-main.dab1384e.js",
+    "runtime-main.js.map": "/VehiculosCrud/static/js/runtime-main.dab1384e.js.map",
+    "static/js/2.fc470ee2.chunk.js": "/VehiculosCrud/static/js/2.fc470ee2.chunk.js",
+    "static/js/2.fc470ee2.chunk.js.map": "/VehiculosCrud/static/js/2.fc470ee2.chunk.js.map",
+    "index.html": "/VehiculosCrud/index.html",
+    "static/css/main.8b937eb3.chunk.css.map": "/VehiculosCrud/static/css/main.8b937eb3.chunk.css.map",
+    "static/js/2.fc470ee2.chunk.js.LICENSE.txt": "/VehiculosCrud/static/js/2.fc470ee2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab1384e.js",
+    "static/js/2.fc470ee2.chunk.js",
+    "static/css/main.8b937eb3.chunk.css",
+    "static/js/main.a5484058.chunk.js"
+  ]
+}
