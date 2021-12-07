@@ -1,6 +1,7 @@
 {
   "name": "ejerciciohooks",
   "version": "0.1.0",
+  "homepage": "https://josealex7.github.io/VehiculosCrud",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
@@ -18,7 +19,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PUBLIC_URL=http://localhost:3000/ react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
